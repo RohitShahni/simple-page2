@@ -18,7 +18,8 @@ const Home = () => {
                     <div className='header-divright'>
                         <div className='header-divright_items' id='header-divright_items1'>
                             <div >
-                                <span>All Categories</span>
+                           
+                                <span><a href='https://www.spotmentor.com/' target='blanck'>All Categories</a></span>
                                 <span id='header-divright_items1_span'>^</span>
                             </div>
                             <hr id='header-divright_items1_hr' />
@@ -28,7 +29,9 @@ const Home = () => {
                             </div>
                         </div>
 
-                        <div className='header-divright_items' id='header-divright_items2'>
+                        <div className='header-divright_items' id='
+                        
+                        header-divright_items2'>
                             <img id='header-divright_items2_img' src='https://www.iconpacks.net/icons/2/free-icon-location-2950.png' alt='Location' />
                             <span id='header-divright_items2_span'>Your Location</span>
                             <span id='header-divright_items2_span2'>^</span>
@@ -36,7 +39,7 @@ const Home = () => {
 
                         <div className='header-divright_items' id='header-divright_items3'>
                             <img id='header-divright_items3_img' src='https://images.vexels.com/media/users/3/155425/isolated/lists/656e36a687dada7c22ee3146ab8adf26-three-thick-arrows-circle.png' alt='arrow symbol' />
-                            <span id='header-divright_items3_span'>Compare</span>
+                            <span className='header-divright_items_span' id='header-divright_items3_span'>Compare</span>
                         </div>
 
                         <div className='header-divright_items' id='header-divright_items3'>
