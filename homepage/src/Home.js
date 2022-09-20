@@ -29,9 +29,7 @@ const Home = () => {
                             </div>
                         </div>
 
-                        <div className='header-divright_items' id='
-                        
-                        header-divright_items2'>
+                        <div className='header-divright_items' id='header-divright_items2'>
                             <img id='header-divright_items2_img' src='https://www.iconpacks.net/icons/2/free-icon-location-2950.png' alt='Location' />
                             <span id='header-divright_items2_span'>Your Location</span>
                             <span id='header-divright_items2_span2'>^</span>
